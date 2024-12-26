@@ -1,0 +1,22 @@
+[
+    {
+        "function_name": "RELU",
+        "line_number": 16,
+        "loops": [
+            {
+                "line_number": 18,
+                "nested_loops": []
+            }
+        ]
+    },
+    {
+        "function_name": "add_bias_to_activations",
+        "line_number": 24,
+        "loops": [
+            {
+                "line_number": 28,
+                "nested_loops": []
+            }
+        ]
+    }
+]

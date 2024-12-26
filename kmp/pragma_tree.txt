@@ -1,0 +1,26 @@
+Root
+├── HLS ARRAY_PARTITION variable=pattern type=complete dim=1, Line: 26
+│   └── HLS ARRAY_PARTITION variable=kmpNext type=complete dim=1, Line: 26
+│       └── HLS ARRAY_PARTITION variable=input type=complete dim=1, Line: 26
+│           └── HLS ARRAY_PARTITION variable=n_matches type=complete dim=1, Line: 26
+├── HLS ARRAY_PARTITION variable=pattern type=cyclic dim=1 factor=1, Line: 26
+│   └── HLS ARRAY_PARTITION variable=kmpNext type=cyclic dim=1 factor=1, Line: 26
+│       └── HLS ARRAY_PARTITION variable=input type=cyclic dim=1 factor=1, Line: 26
+│           └── HLS ARRAY_PARTITION variable=n_matches type=cyclic dim=1 factor=1, Line: 26
+├── HLS ARRAY_PARTITION variable=pattern type=cyclic dim=1 factor=4, Line: 26
+│   └── HLS ARRAY_PARTITION variable=kmpNext type=cyclic dim=1 factor=4, Line: 26
+│       └── HLS ARRAY_PARTITION variable=input type=cyclic dim=1 factor=4, Line: 26
+│           └── HLS ARRAY_PARTITION variable=n_matches type=cyclic dim=1 factor=4, Line: 26
+├── HLS ARRAY_PARTITION variable=pattern type=cyclic dim=1 factor=16, Line: 26
+│   └── HLS ARRAY_PARTITION variable=kmpNext type=cyclic dim=1 factor=16, Line: 26
+│       └── HLS ARRAY_PARTITION variable=input type=cyclic dim=1 factor=16, Line: 26
+│           └── HLS ARRAY_PARTITION variable=n_matches type=cyclic dim=1 factor=16, Line: 26
+├── HLS ARRAY_PARTITION variable=pattern type=cyclic dim=1 factor=64, Line: 26
+│   └── HLS ARRAY_PARTITION variable=kmpNext type=cyclic dim=1 factor=64, Line: 26
+│       └── HLS ARRAY_PARTITION variable=input type=cyclic dim=1 factor=64, Line: 26
+│           └── HLS ARRAY_PARTITION variable=n_matches type=cyclic dim=1 factor=64, Line: 26
+└── HLS ARRAY_PARTITION variable=pattern type=cyclic dim=1 factor=256, Line: 26
+    └── HLS ARRAY_PARTITION variable=kmpNext type=cyclic dim=1 factor=256, Line: 26
+        └── HLS ARRAY_PARTITION variable=input type=cyclic dim=1 factor=256, Line: 26
+            └── HLS ARRAY_PARTITION variable=n_matches type=cyclic dim=1 factor=256, Line: 26
+Design count: 6

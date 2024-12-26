@@ -1,0 +1,35 @@
+[
+    {
+        "function_name": "merge",
+        "line_number": 3,
+        "loops": [
+            {
+                "line_number": 7,
+                "nested_loops": []
+            },
+            {
+                "line_number": 11,
+                "nested_loops": []
+            },
+            {
+                "line_number": 18,
+                "nested_loops": []
+            }
+        ]
+    },
+    {
+        "function_name": "ms_mergesort",
+        "line_number": 31,
+        "loops": [
+            {
+                "line_number": 38,
+                "nested_loops": [
+                    {
+                        "line_number": 39,
+                        "nested_loops": []
+                    }
+                ]
+            }
+        ]
+    }
+]

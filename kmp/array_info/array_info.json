@@ -1,0 +1,30 @@
+[
+    {
+        "array_name": "pattern",
+        "dimensions": 1,
+        "size_per_dimension": [
+            32
+        ]
+    },
+    {
+        "array_name": "kmpNext",
+        "dimensions": 1,
+        "size_per_dimension": [
+            32
+        ]
+    },
+    {
+        "array_name": "input",
+        "dimensions": 1,
+        "size_per_dimension": [
+            256
+        ]
+    },
+    {
+        "array_name": "n_matches",
+        "dimensions": 1,
+        "size_per_dimension": [
+            1
+        ]
+    }
+]

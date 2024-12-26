@@ -1,0 +1,80 @@
+[
+    {
+        "array_name": "a_x",
+        "dimensions": 1,
+        "size_per_dimension": [
+            8
+        ]
+    },
+    {
+        "array_name": "a_y",
+        "dimensions": 1,
+        "size_per_dimension": [
+            8
+        ]
+    },
+    {
+        "array_name": "reversed8",
+        "dimensions": 1,
+        "size_per_dimension": [
+            8
+        ]
+    },
+    {
+        "array_name": "DATA_x",
+        "dimensions": 1,
+        "size_per_dimension": [
+            512
+        ]
+    },
+    {
+        "array_name": "DATA_y",
+        "dimensions": 1,
+        "size_per_dimension": [
+            512
+        ]
+    },
+    {
+        "array_name": "data_x",
+        "dimensions": 1,
+        "size_per_dimension": [
+            8
+        ]
+    },
+    {
+        "array_name": "data_y",
+        "dimensions": 1,
+        "size_per_dimension": [
+            8
+        ]
+    },
+    {
+        "array_name": "smem",
+        "dimensions": 2,
+        "size_per_dimension": [
+            8,
+            72
+        ]
+    },
+    {
+        "array_name": "reversed",
+        "dimensions": 1,
+        "size_per_dimension": [
+            8
+        ]
+    },
+    {
+        "array_name": "work_x",
+        "dimensions": 1,
+        "size_per_dimension": [
+            512
+        ]
+    },
+    {
+        "array_name": "work_y",
+        "dimensions": 1,
+        "size_per_dimension": [
+            512
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "array_name": "sbox",
+        "dimensions": 1,
+        "size_per_dimension": [
+            256
+        ]
+    },
+    {
+        "array_name": "ctx->key",
+        "dimensions": 1,
+        "size_per_dimension": [
+            32
+        ]
+    },
+    {
+        "array_name": "ctx->enckey",
+        "dimensions": 1,
+        "size_per_dimension": [
+            32
+        ]
+    },
+    {
+        "array_name": "ctx->deckey",
+        "dimensions": 1,
+        "size_per_dimension": [
+            32
+        ]
+    },
+    {
+        "array_name": "buf",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ]
+    }
+]

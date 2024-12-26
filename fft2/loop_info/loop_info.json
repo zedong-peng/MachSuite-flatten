@@ -1,0 +1,62 @@
+[
+    {
+        "function_name": "twiddles8",
+        "line_number": 23,
+        "loops": [
+            {
+                "line_number": 28,
+                "nested_loops": []
+            }
+        ]
+    },
+    {
+        "function_name": "fft1D_512",
+        "line_number": 113,
+        "loops": [
+            {
+                "line_number": 127,
+                "nested_loops": []
+            },
+            {
+                "line_number": 174,
+                "nested_loops": []
+            },
+            {
+                "line_number": 188,
+                "nested_loops": []
+            },
+            {
+                "line_number": 204,
+                "nested_loops": []
+            },
+            {
+                "line_number": 219,
+                "nested_loops": []
+            },
+            {
+                "line_number": 244,
+                "nested_loops": []
+            },
+            {
+                "line_number": 294,
+                "nested_loops": []
+            },
+            {
+                "line_number": 309,
+                "nested_loops": []
+            },
+            {
+                "line_number": 325,
+                "nested_loops": []
+            },
+            {
+                "line_number": 340,
+                "nested_loops": []
+            },
+            {
+                "line_number": 365,
+                "nested_loops": []
+            }
+        ]
+    }
+]
