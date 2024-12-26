@@ -1,0 +1,223 @@
+执行失败: ../PolyBench/linear-algebra/solvers/gramschmidt/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/solvers/trisolv/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/solvers/durbin/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/kernels/2mm/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/solvers/lu/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/solvers/ludcmp/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/solvers/cholesky/run_hls.tcl
+错误信息: 
+vitis_hls 执行成功: ../PolyBench/linear-algebra/kernels/doitgen/run_hls.tcl
+执行失败: ../PolyBench/linear-algebra/kernels/atax/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/kernels/bicg/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/kernels/mvt/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/blas/gesummv/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/kernels/3mm/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/blas/trmm/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/blas/symm/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/blas/gemver/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/blas/syrk/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/stencils/jacobi-2d/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/stencils/heat-3d/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/datamining/correlation/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/blas/syr2k/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/datamining/covariance/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/stencils/jacobi-1d/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/stencils/seidel-2d/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/stencils/fdtd-2d/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/medley/floyd-warshall/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/medley/nussinov/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/stencils/adi/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/medley/deriche/run_hls.tcl
+错误信息: 
+vitis_hls 执行成功: ../PolyBench/linear-algebra/solvers/trisolv/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/kernels/atax/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/solvers/durbin/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/solvers/cholesky/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/solvers/lu/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/solvers/gramschmidt/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/solvers/ludcmp/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/kernels/2mm/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/kernels/bicg/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/kernels/3mm/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/blas/symm/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/blas/gesummv/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/kernels/mvt/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/blas/gemver/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/blas/syr2k/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/blas/trmm/run_hls.tcl
+执行失败: ../PolyBench/linear-algebra/blas/syrk/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/stencils/jacobi-2d/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/stencils/jacobi-1d/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/stencils/seidel-2d/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/stencils/heat-3d/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/stencils/fdtd-2d/run_hls.tcl
+错误信息: 
+vitis_hls 执行成功: ../PolyBench/datamining/covariance/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/datamining/correlation/run_hls.tcl
+执行失败: ../PolyBench/medley/floyd-warshall/run_hls.tcl
+错误信息: 
+vitis_hls 执行成功: ../PolyBench/stencils/adi/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/medley/nussinov/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/medley/deriche/run_hls.tcl
+执行失败: ../PolyBench/stencils/fdtd-2d/run_hls.tcl
+错误信息: 
+执行失败: ../PolyBench/linear-algebra/blas/syrk/run_hls.tcl
+错误信息: 
+vitis_hls 执行成功: ../PolyBench/stencils/jacobi-1d/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/stencils/seidel-2d/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/blas/trmm/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/solvers/gramschmidt/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/stencils/jacobi-2d/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/stencils/heat-3d/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/medley/floyd-warshall/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/medley/nussinov/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/medley/nussinov/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/blas/trmm/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/solvers/gramschmidt/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/blas/syrk/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/stencils/fdtd-2d/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/medley/nussinov/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/linear-algebra/blas/trmm/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/medley/nussinov/run_hls.tcl
+vitis_hls 执行成功: ../PolyBench/medley/nussinov/run_hls.tcl
+执行失败: ../MachSuite/gemm/blocked/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/nw/nw/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/spmv/ellpack/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/fft/transpose/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/viterbi/viterbi/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/fft/strided/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/gemm/ncubed/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/spmv/crs/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/bfs/bulk/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/sort/merge/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/bfs/queue/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/md/knn/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/kmp/kmp/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/md/grid/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/stencil/stencil3d/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/stencil/stencil2d/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/sort/radix/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/backprop/backprop/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/spmv/ellpack/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/spmv/crs/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/fft/strided/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/gemm/blocked/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/nw/nw/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/gemm/ncubed/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/bfs/bulk/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/bfs/queue/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/kmp/kmp/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/md/grid/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/fft/transpose/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/md/knn/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/stencil/stencil2d/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/sort/merge/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/sort/radix/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/viterbi/viterbi/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/backprop/backprop/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/stencil/stencil3d/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/spmv/ellpack/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/spmv/crs/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/gemm/blocked/hls.tcl
+错误信息: 
+vitis_hls 执行成功: ../MachSuite/fft/strided/hls.tcl
+vitis_hls 执行成功: ../MachSuite/nw/nw/hls.tcl
+执行失败: ../MachSuite/gemm/ncubed/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/bfs/bulk/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/bfs/queue/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/kmp/kmp/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/md/grid/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/stencil/stencil2d/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/md/knn/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/fft/transpose/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/sort/merge/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/sort/radix/hls.tcl
+错误信息: 
+vitis_hls 执行成功: ../MachSuite/aes/aes/hls.tcl
+执行失败: ../MachSuite/backprop/backprop/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/viterbi/viterbi/hls.tcl
+错误信息: 
+执行失败: ../MachSuite/stencil/stencil3d/hls.tcl
+错误信息: 
+vitis_hls 执行成功: ../MachSuite/kmp/kmp/hls.tcl
+执行失败: ../MachSuite/sort/merge/hls.tcl
+错误信息: 

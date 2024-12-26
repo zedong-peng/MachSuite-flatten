@@ -1,0 +1,20 @@
+File Path,Part,TargetClockPeriod,Best-caseLatency,BRAM_18K,LUT,DSP,FF
+../MachSuite/gemm/ncubed/gemm_hls/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,131239,0,5710,22,9430
+../MachSuite/gemm/blocked/gemm_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,262153,0,1835,11,1828
+../MachSuite/nw/nw/nw_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,33936,0,1819,0,642
+../MachSuite/fft/strided/fft_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,41,0,2356,38,3015
+../MachSuite/fft/transpose/fft_syn/fft/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,8630,8,37313,290,22819
+../MachSuite/spmv/ellpack/spmv_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,20749,0,1163,11,1198
+../MachSuite/spmv/crs/spmv_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,7411,0,1095,11,1038
+../MachSuite/viterbi/viterbi/viterbi_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,294315,58,29355,15,19349
+../MachSuite/md/knn/knn_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,2419,0,21047,208,35307
+../MachSuite/md/grid/grid_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,4865,0,6851,107,7754
+../MachSuite/bfs/bulk/bfs_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,772,0,635,0,635
+../MachSuite/bfs/queue/bfs_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,11,0,777,0,339
+../MachSuite/kmp/kmp/kmp_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,324142,0,725,0,394
+../MachSuite/stencil/stencil2d/stencil_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,109369,0,395,3,87
+../MachSuite/stencil/stencil3d/stencil_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,22698,0,72129,810,13348
+../MachSuite/sort/merge/sort_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,undef,4,1133,0,809
+../MachSuite/sort/radix/sort_syn/solution/syn/report/csynth.xml,xc7v585t-ffg1761-2,10.00,166321,0,3698,0,2292
+../MachSuite/backprop/backprop/backprop_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,3727159,6,33005,92,60727
+../MachSuite/aes/aes/aes_syn/solution/syn/report/csynth.xml,xcu280-fsvh2892-2L-e,10.00,1204,0,397702,0,34475
